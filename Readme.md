@@ -32,7 +32,7 @@ docker-web-app/
 
 📄 app.py
 ========================
- ## 📄 app.py
+ 
 
 ```python
 from flask import Flask
