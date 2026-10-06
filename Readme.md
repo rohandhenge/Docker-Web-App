@@ -32,7 +32,9 @@ docker-web-app/
 =================
 📄 app.py
 ========================
+ ## 📄 app.py
 
+```python
 from flask import Flask
 
 app = Flask(__name__)
@@ -53,6 +55,7 @@ def home():
     """
 
 app.run(host="0.0.0.0", port=5000)
+```
 
 
 =================
